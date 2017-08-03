@@ -40,6 +40,7 @@ li{list-style-type:none;}
     background-color: #F3F3F3;
 }
 .mui-table-view:before{background-color: #FFFFFF;}
+.mui-input-group:before{background-color: #FFFFFF;}
 .zhuanlan:after{background-color:#FFFFFF}
 p{font-size: 12px;}
 .live{padding-top: 0px;}
