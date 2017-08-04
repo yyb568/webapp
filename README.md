@@ -1,4 +1,8 @@
 # webapp
+手机扫一扫预览:
 
-预览地址:
+![](http://otbcgjn6c.bkt.clouddn.com/liantu.png)
+
+PC地址:
+
 http://www.yybblog.cn/webapp/
